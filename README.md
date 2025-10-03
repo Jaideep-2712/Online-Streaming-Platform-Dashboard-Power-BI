@@ -3,8 +3,9 @@
 This repository features a comprehensive Power BI dashboard built to analyze and visualize data from global film, TV, and OTT content. Designed for media analysts, content strategists, and entertainment researchers, the dashboard provides in-depth insights into title distribution, genre trends, and production dynamics across multiple decades and geographies.
 
 ---
-### 🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
 
+![Online Streaming Platform Dashboard](https://raw.githubusercontent.com/Jaideep-2712/Online-Streaming-Platform-Dashboard-Power-BI/main/Online%20Streaming%20Platform%20Dashboard.png)
 
 ---
 ## 🔍 Dashboard Overview
