@@ -15,17 +15,17 @@ The dashboard includes the following key components:
 - **Total Titles**: Displays the cumulative count of content pieces analyzed (**9651** titles).
 - **Total Genres & Directors**: Highlights diversity with **518 genres** and **5769 directors**.
 - **Titles by Type**: Pie chart showing content split:
-  - 🎥 **Movies**: 80.1%
-  - 📺 **TV Shows**: 19.9%
+  - 🎥 **Movies**: 80.2%
+  - 📺 **TV Shows**: 19.2%
 - **Quarter Filter**: Interactive slicer to filter data by Q1, Q2, Q3, Q4 or view all quarters.
 - **Titles by Country**: Bubble chart visualizing geographic distribution of titles, scaled by volume.
 - **Titles by Year & Type**: Line chart tracking historical trends from pre-1900 to 2020, with separate lines for Movies and TV Shows.
 - **Top 5 Genres**: Bar chart showcasing genre popularity:
-  - 🎭 Drama (898)
-  - 😂 Comedy (586)
-  - 💘 Romance (500)
-  - 🕵️‍♂️ Crime (377)
-  - 🐭 Animation (300)
+  - 🎭 Drama (986)
+  - 😂 Comedy (536)
+  - 🔍 Drama & Suspense (399)
+  - 🕵️‍♂️ Comedy & Drama (377)
+  - 🐭 Animation & Kids (356)
 
 ---
 
